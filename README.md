@@ -1,1 +1,1 @@
-# CodeAlpha_Calculator_Task
+ A simple yet functional calculator built using HTML, CSS, and JavaScript. The calculator includes basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and responsive UI with a display screen and buttons for input. This hands-on experience has been invaluable in understanding event handling, DOM manipulation, and state management in JavaScript.
